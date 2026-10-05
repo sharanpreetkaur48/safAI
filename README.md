@@ -148,34 +148,34 @@
 ## ⚙️ How safAI Works
 
 ```text
-👀 OBSERVE
+ OBSERVE
 Student notices improper dumping
         ↓
-📸 CAPTURE
+ CAPTURE
 Live photo/video + location + time
         ↓
-🔍 VALIDATE
+ VALIDATE
 Check evidence, category & duplicate observations
         ↓
-📍 HOTSPOT
+ HOTSPOT
 Create or link the observation to a verified location
         ↓
-🏛️ VERIFY
+ VERIFY
 Municipal team verifies the reported problem
         ↓
-🛠️ ACT
+ ACT
 Cleaning, collection, transportation or appropriate disposal
         ↓
-🤝 COMMUNITY
+ COMMUNITY
 School / Eco Club / NSS conducts suitable awareness activity
         ↓
-🔄 FOLLOW UP
+ FOLLOW UP
 Track the hotspot after municipal action
         ↓
         ┌───────────────────┐
         │                   │
         ▼                   ▼
-   ✅ SUSTAINED CLEAN   ⚠️ RECURRING
+    SUSTAINED CLEAN    RECURRING
                             ↓
                     Pattern identified
                             ↓
