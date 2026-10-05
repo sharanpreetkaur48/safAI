@@ -272,7 +272,13 @@ flowchart LR
 ## 🖥️ Project Preview
 
 <p align="center">
-  <img src="./Civic%20Cleanup%20App%20UI%20Showcase.png" alt="safAI UI Showcase" width="900">
+  <img src="./Image%201.jpeg" alt="safAI Preview 1" width="200">
+  &nbsp;&nbsp;
+  <img src="./Image%202.jpeg" alt="safAI Preview 2" width="200">
+  &nbsp;&nbsp;
+  <img src="./Image%203.jpeg" alt="safAI Preview 3" width="200">
+  &nbsp;&nbsp;
+  <img src="./image%204.jpeg" alt="safAI Preview 4" width="200">
 </p>
 
 ---
