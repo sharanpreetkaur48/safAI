@@ -37,9 +37,7 @@
 - [How safAI Works](#how-safai-works)
 - [User Flow](#user-flow)
 - [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
 - [Impact & Success Metrics](#impact--success-metrics)
-- [Future Scope](#future-scope)
 - [Team](#team)
 
 ---
@@ -241,3 +239,78 @@ flowchart LR
     K -->|Yes| M["⚠️ Recurrence Analysis"]
     M --> N["🎯 Preventive Action"]
 ```
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer | Technology |
+|---|---|
+| 🎨 **Frontend** | React / Flutter (Mobile-first PWA) |
+| ⚙️ **Backend** | Node.js / FastAPI (REST APIs) |
+| 🗄️ **Database** | PostgreSQL + PostGIS — Location & hotspot history |
+| ☁️ **Storage** | Cloud Storage — Photos / Videos |
+| 🗺️ **Maps & Location** | GPS + Google Maps API (or Open Source) |
+| 🔔 **Notifications** | FCM / Web Push |
+| 🤖 **AI (Assistive)** | Image classification, duplicate detection, location clustering, recurrence analysis |
+
+---
+
+## 📈 Impact & Success Metrics
+
+### 🌱 Expected Impact
+
+-  Better identification of **local waste hotspots**
+-  Faster visibility of **recurring dumping locations**
+-  Improved **waste segregation & disposal awareness**
+-  Stronger coordination between **students, communities and municipalities**
+-  Increased participation of **schools, Eco Clubs and NSS units**
+-  Shift from **one-time cleanup to long-term cleanliness**
+-  Cleaner and more sustainable **local communities**
+
+### 📊 Success Metrics
+
+| Metric | What We Measure |
+|---|---|
+|  Hotspots Identified | Number of genuine waste hotspots detected |
+|  Verification Rate | Percentage of observations successfully verified |
+|  Response Time | Time taken from verification to municipal action |
+|  Hotspots Resolved | Number of hotspots cleaned and addressed |
+|  Recurrence Rate | Number of hotspots where waste reappears |
+|  Community Activities | Awareness, segregation and supervised activities conducted |
+|  Follow-up Evidence | Hotspots with post-action verification |
+|  Sustained Cleanliness | Locations that remain clean after intervention |
+|  Recurring → Clean | Hotspots converted from recurring problems to sustained cleanliness |
+
+> **The ultimate measure of safAI is not how many reports are submitted — it is how many locations become and remain clean.**
+
+---
+
+## Team
+
+| S.No | Team Member | LinkedIn |
+|---|---|---|
+| 1 | **Sushant kumar Mishra** | [LinkedIn](https://www.linkedin.com/in/mishragisonline) |
+| 2 | **Surbhi Sharma** | [LinkedIn](https://www.linkedin.com/in/surbhi-sharma-tech) |
+| 3 | **Riya** | [LinkedIn](https://www.linkedin.com/in/riya-bansal-a1731a37a) |
+| 4 | **vipul Sethi** | [LinkedIn](https://www.linkedin.com/in/vipul-sethi-b1508937a) |
+| 5 | **Neeraj Kumar** | [LinkedIn]([www.linkedin.com/in/neerajkumarlearner](https://www.linkedin.com/in/neerajkumarlearner/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1lAwVieSTJKhc8eyVmmWMQ%3D%3D)) |
+| 6 | **Sharanpreet Kaur** | [LinkedIn](https://www.linkedin.com/in/sharanpreet-kaur-1a00a037a) |
+
+---
+
+## 🌱 Conclusion
+
+**safAI is built on a simple idea:**
+
+> **Don't just report waste. Help make the place stay clean.**
+
+By connecting **students, communities, and municipal teams**, safAI turns everyday observations into verified hotspots, coordinated action, follow-up, and long-term cleanliness.
+
+###  Thank You
+
+> **Observe. Act. Follow Up. Keep It Clean.**
+
+**Thank you for exploring safAI! 💚**
+
+---
