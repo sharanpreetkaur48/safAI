@@ -256,6 +256,14 @@ flowchart LR
 
 ---
 
+## 🖥️ Project Preview
+
+<p align="center">
+  <img src="./Civic%20Cleanup%20App%20UI%20Showcase.png" alt="safAI UI Showcase" width="900">
+</p>
+
+---
+
 ## 📈 Impact & Success Metrics
 
 ### 🌱 Expected Impact
