@@ -1,0 +1,6 @@
+{
+  "name": "safAI — Smart Action Framework for Awareness & Improvement",
+  "description": "Civic sanitation coordination platform connecting students, schools, Eco Clubs, NSS units, and municipal sanitation teams around physical hotspots with continuous history tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
