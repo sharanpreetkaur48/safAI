@@ -66,6 +66,19 @@
 
 ---
 
+## 📌 Problem Statement
+
+| Field | Details |
+|---|---|
+| **Problem Statement ID** | 26195 |
+| **Problem Statement Title** | Student Innovation-Solutions could be in the form of waste segregation, disposal, and improve sanitization system. |
+| **Organization** | AICTE |
+| **Department** | AICTE, MIC-Student Innovation |
+| **Category** | Software |
+| **Theme** | Clean & Green Technology |
+
+---
+
 ## 💡 Our Solution
 
 - **safAI adds a student-supported observation layer** to the existing municipal sanitation system.
